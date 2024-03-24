@@ -46,3 +46,10 @@ You can reach us on Discord : [Click Here](https://discord.com/invite/albion-onl
 At [Albion Online Tools](https://albiononlinetools.com/), our mission is to provide invaluable tools to each and every player, completely free of charge. However, to continue offering these essential resources, we rely on the generosity and support of individuals like you, You can support us on Patreon.
 
 https://www.patreon.com/AlbionOnlineTools
+
+<p align="left">
+  <img src="https://github.com/Albion-Online-Tools/AlbionOnlineTools/assets/50632062/3ad20c09-9b1f-41e1-8c53-29a5bec0e64b" width="300" height="175" />
+</p>
+
+
+
